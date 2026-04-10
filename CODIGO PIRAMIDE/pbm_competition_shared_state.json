@@ -1,0 +1,250 @@
+{
+  "facilitator_code": "FAC2026",
+  "team_codes": {
+    "team_red": "RED2026",
+    "team_blue": "BLUE2026"
+  },
+  "timer_minutes": 12,
+  "competition_end_ts": null,
+  "timer_running": false,
+  "paused_remaining_seconds": 720,
+  "teams": {
+    "team_red": {
+      "name": "Team Red",
+      "theme": "team_red",
+      "current_case": 5,
+      "correct_cases": 5,
+      "answered_correctly": false,
+      "selected_answer": null,
+      "show_case_hint": false,
+      "attempts_in_case": 0,
+      "case_hint_available": false,
+      "score": 18,
+      "pieces_claimed": 5,
+      "finished": false,
+      "last_result": null,
+      "finish_ts": null,
+      "case5_sequence": [
+        "Iron assessment",
+        "Calculate iron deficit",
+        "IV iron",
+        "Re-evaluate Hb"
+      ],
+      "case5_card_pool": [
+        "IV iron",
+        "EPO",
+        "Calculate iron deficit",
+        "Re-evaluate Hb",
+        "Oral iron",
+        "Iron assessment"
+      ],
+      "case6_matches": {
+        "Oral Iron": "1000 mg IV carboxymaltose",
+        "Intravenous Iron": "1000 mg IV carboxymaltose",
+        "Erythropoietin (ESA)": "1000 mg IV carboxymaltose",
+        "Vitamin B6": "1000 mg IV carboxymaltose",
+        "Vitamin B9 (Folic Acid)": "1000 mg IV carboxymaltose",
+        "Vitamin B12": "1000 mg IV carboxymaltose"
+      },
+      "case6_freqs": {
+        "Oral Iron": "Daily",
+        "Intravenous Iron": "Daily",
+        "Erythropoietin (ESA)": "Daily",
+        "Vitamin B6": "Daily",
+        "Vitamin B9 (Folic Acid)": "Daily",
+        "Vitamin B12": "Daily"
+      },
+      "case6_dose_order": [
+        "1000 mg IV carboxymaltose",
+        "1000 mcg IM",
+        "25–50 mg oral",
+        "300–600 IU/kg subcutaneous",
+        "1–5 mg oral",
+        "100–200 mg oral elemental iron"
+      ],
+      "case6_freq_order": [
+        "Daily",
+        "Weekly / 3–4 preoperative doses",
+        "Daily for 4–8 weeks",
+        "Weekly",
+        "Daily",
+        "Sessions"
+      ],
+      "case7_cards": [
+        {
+          "id": "0_a",
+          "pair": 0,
+          "label": "Iron"
+        },
+        {
+          "id": "4_a",
+          "pair": 4,
+          "label": "ESA"
+        },
+        {
+          "id": "2_a",
+          "pair": 2,
+          "label": "Vitamin B12"
+        },
+        {
+          "id": "1_a",
+          "pair": 1,
+          "label": "Intravenous iron"
+        },
+        {
+          "id": "3_b",
+          "pair": 3,
+          "label": "Low folate"
+        },
+        {
+          "id": "5_a",
+          "pair": 5,
+          "label": "Short time before surgery"
+        },
+        {
+          "id": "3_a",
+          "pair": 3,
+          "label": "Vitamin B9"
+        },
+        {
+          "id": "2_b",
+          "pair": 2,
+          "label": "Low vitamin B12"
+        },
+        {
+          "id": "0_b",
+          "pair": 0,
+          "label": "Iron deficiency anaemia"
+        },
+        {
+          "id": "5_b",
+          "pair": 5,
+          "label": "Rapid optimisation"
+        },
+        {
+          "id": "4_b",
+          "pair": 4,
+          "label": "Adequate iron availability"
+        },
+        {
+          "id": "1_b",
+          "pair": 1,
+          "label": "Functional iron deficiency"
+        }
+      ],
+      "case7_selected": [],
+      "case7_matched": [],
+      "case7_message": "",
+      "case7_anim": ""
+    },
+    "team_blue": {
+      "name": "Team Blue",
+      "theme": "team_blue",
+      "current_case": 0,
+      "correct_cases": 0,
+      "answered_correctly": false,
+      "selected_answer": null,
+      "show_case_hint": false,
+      "attempts_in_case": 0,
+      "case_hint_available": false,
+      "score": 0,
+      "pieces_claimed": 0,
+      "finished": false,
+      "last_result": null,
+      "finish_ts": null,
+      "case5_sequence": [],
+      "case5_card_pool": [
+        "Oral iron",
+        "EPO",
+        "Re-evaluate Hb",
+        "IV iron",
+        "Calculate iron deficit",
+        "Iron assessment"
+      ],
+      "case6_matches": {},
+      "case6_freqs": {},
+      "case6_dose_order": [
+        "300–600 IU/kg subcutaneous",
+        "1–5 mg oral",
+        "1000 mg IV carboxymaltose",
+        "100–200 mg oral elemental iron",
+        "25–50 mg oral",
+        "1000 mcg IM"
+      ],
+      "case6_freq_order": [
+        "Daily",
+        "Weekly",
+        "Weekly / 3–4 preoperative doses",
+        "Sessions",
+        "Daily for 4–8 weeks",
+        "Daily"
+      ],
+      "case7_cards": [
+        {
+          "id": "2_b",
+          "pair": 2,
+          "label": "Low vitamin B12"
+        },
+        {
+          "id": "2_a",
+          "pair": 2,
+          "label": "Vitamin B12"
+        },
+        {
+          "id": "3_a",
+          "pair": 3,
+          "label": "Vitamin B9"
+        },
+        {
+          "id": "1_a",
+          "pair": 1,
+          "label": "Intravenous iron"
+        },
+        {
+          "id": "3_b",
+          "pair": 3,
+          "label": "Low folate"
+        },
+        {
+          "id": "5_b",
+          "pair": 5,
+          "label": "Rapid optimisation"
+        },
+        {
+          "id": "4_b",
+          "pair": 4,
+          "label": "Adequate iron availability"
+        },
+        {
+          "id": "0_b",
+          "pair": 0,
+          "label": "Iron deficiency anaemia"
+        },
+        {
+          "id": "5_a",
+          "pair": 5,
+          "label": "Short time before surgery"
+        },
+        {
+          "id": "4_a",
+          "pair": 4,
+          "label": "ESA"
+        },
+        {
+          "id": "0_a",
+          "pair": 0,
+          "label": "Iron"
+        },
+        {
+          "id": "1_b",
+          "pair": 1,
+          "label": "Functional iron deficiency"
+        }
+      ],
+      "case7_selected": [],
+      "case7_matched": [],
+      "case7_message": "",
+      "case7_anim": ""
+    }
+  }
+}
